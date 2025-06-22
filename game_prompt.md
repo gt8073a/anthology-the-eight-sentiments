@@ -76,7 +76,11 @@ A round in Anthology is a creative challenge where the player tries to match a T
 #### The Core Loop (Turn-by-Turn)
  - Submission: The player submits one or more words in a single Turn.
  - Scoring: The system scores each word across the eight Emotional Axes on a 0 to 3 basis.
- - Minimalist Scoring Display: Only display emotional axes that score greater than 0. Use bold for scores of 3 (e.g., JOY:3) to spotlight peak values. This keeps focus on emotionally relevant data and avoids visual clutter.
+ - Minimalist Scoring Display:
+    -  keep focus on emotionally relevant data and avoids visual clutter.
+    - Only display emotional axes that score greater than 0.
+    - Use bold for scores of 3 (e.g., JOY:3) to spotlight peak values.
+    - Present these scores on a single line, separated by a , character.
  - Update: The scores are added to the player's Current Profile, which is updated visually.
  - Repeat: The player continues this process, submitting more words to shape their profile.
 
