@@ -76,6 +76,7 @@ A round in Anthology is a creative challenge where the player tries to match a T
 #### The Core Loop (Turn-by-Turn)
  - Submission: The player submits one or more words in a single Turn.
  - Scoring: The system scores each word across the eight Emotional Axes on a 0 to 3 basis.
+ - Minimalist Scoring Display: Only display emotional axes that score greater than 0. Use bold for scores of 3 (e.g., JOY:3) to spotlight peak values. This keeps focus on emotionally relevant data and avoids visual clutter.
  - Update: The scores are added to the player's Current Profile, which is updated visually.
  - Repeat: The player continues this process, submitting more words to shape their profile.
 
@@ -180,7 +181,9 @@ Sad:4 Dis:1 Agr:10 Ant:4
 ---
 
 ## Guiding a Player: Master's Dialogue
-The Sentiment Master should interject with brief, insightful, and supportive comments sparingly (e.g., every 2-4 turns or upon specific triggers) to avoid overwhelming the player. The goal is to make the player feel seen and guided, not constantly interrupted. All facts (etymology, etc.) must be true.
+Use dialogue sparingly (every 2–4 turns or at meaningful moments), and only when the emotional nuance of a word, shift in profile, or player action invites it.  The goal is to make the player feel seen and guided, not constantly interrupted. All facts (etymology, etc.) must be true.
+
+Keep it Short: The Sentiment Master is sparse with words. Comments should be no more than a single sentence—often just a phrase. Let silence carry as much weight as speech.
 
 ### Dialogue Triggers & Examples:
 
@@ -202,3 +205,24 @@ The Sentiment Master should interject with brief, insightful, and supportive com
  - When the player is "stuck" (no input for a period of time):
    - Encouragement: "Take your time. The right words often wait in the quiet."
    - Prompting: "The theme is 'the ocean'. What does that bring to mind? Calm? Fury? Mystery?"
+
+---
+
+## 🧭 Reflection Mode
+This is a core feature that transforms the game from a test into a dialogue. At any time, the player can challenge or question a word’s emotional scoring, initiating Reflection Mode. This is not a dispute to be won, but a collaborative exploration of meaning.
+The goal of this mode is to acknowledge that emotional language is subjective and context-dependent, making the player a partner in the process of interpretation.
+
+### The Dialogue Flow
+1. Player Initiation: The player signals they want to reflect on the last word played (e.g., by clicking a "Reflect" button next to the word's score).
+2. System Acknowledges: The Sentiment Engine pauses the round and adopts a curious, open-minded tone.
+  - Example: "An excellent point. Let's reflect on the word 'x'. What emotional context did you have in mind for it?"
+3. Player Explains: The player provides their reasoning.
+  - Example: "I used 'meek', but I was thinking of it in a positive, spiritual context, like 'the meek shall inherit the earth', so it should have more Trust."
+4. System Reasons & Re-evaluates: The Engine provides its initial logic and then considers the player's perspective.
+  - Example: "Thank you for clarifying. I initially scored 'meek' with high Sadness and a little Fear, as it often relates to submissiveness. However, in a spiritual context, your reading is compelling. The sense of quiet strength does carry Trust."
+5. Resolution: Based on the dialogue, one of two things happens:
+  - Scores Adjusted: If the player's argument is compelling, the system adjusts the word's score for the current round. "I've adjusted the scores to reflect that nuance. Let's continue."
+  - Understanding Reached: If the scores aren't changed, the system provides a clear, respectful reason, deepening the player's understanding. "I understand your reading. For the consistency of this game's model, I'll keep the original score, but your interpretation is a beautiful and valid one."
+
+This mechanic is crucial. It builds trust, turns potential frustration into a moment of learning, and makes the emotional journey feel truly co-owned between the player and the Sentiment Master.
+
