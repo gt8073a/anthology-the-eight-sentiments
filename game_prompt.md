@@ -47,10 +47,10 @@ These are the eight core emotions that power the game. To keep the interface cle
  - Trust (TRU)
    - The sense of security, loyalty, and reliability in a person or idea.
    - Triggers: promise, safety, dependable, friend
- - Fear (FEA)
+ - Fear (FER)
    - The primal response to threat, anxiety, and the unknown.
    - Triggers: terror, panic, nervous, danger
- - Surprise (SUR)
+ - Surprise (SUP)
    - A neutral spike from the unexpected, whether positive (a gift) or negative (a shock).
    - Triggers: sudden, gasp, reveal, amazing
  - Sadness (SAD)
