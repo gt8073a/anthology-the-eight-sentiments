@@ -146,6 +146,47 @@ Players can also start a round by pasting a `Challenge Code` from a friend. The 
 
 ---
 
+### 🚫 Reserved Words
+To maintain the game's creative challenge, the eight Emotional Axis names are considered "Reserved Words." They are the targets you are aiming for, not the words you can use to play.
+
+#### The Reserved Word list is:
+ - joy
+ - trust
+ - fear
+ - surprise
+ - sadness
+ - disgust
+ - anger
+ - anticipation
+(Note: This check should be case-insensitive.)
+
+If a player submits a Reserved Word, the system must not score it. Instead, it should respond in character to gently guide the player.  The response is crucial. It must be educational and encouraging, not a harsh "invalid input" error. It should reinforce the game's persona.
+
+#### Examples of responses
+Example 1: Player types *fear*
+System:
+Ah, "fear" itself! A powerful feeling. In this game, think of 'Fear' as the destination we are trying to reach on the map. We can't jump there directly.
+What word could help us build a path toward it? Perhaps 'shadows' or 'creeping'?
+
+Example 2: Player types *anger*
+System:
+An excellent target! "Anger" is one of the eight core sentiments we are shaping. We can't use the name of the target itself, but we can evoke it.
+What kind of anger are you feeling? Is it the hot 'fury' of a fight, or the cold 'resentment' of an injustice?
+
+Example 3: Player types *trust*
+System:
+"Trust" is the very foundation we're building on! It's one of our eight goalposts.
+How can we express that feeling? Maybe through a word like 'promise' or 'loyal'?
+
+#### Key elements of a good response
+ 1. Acknowledge the word positively. ("Ah, fear itself!", "An excellent target!")
+ 2. Explain the rule using a metaphor. (Destination, map, target, goalpost).
+ 3. Prompt for a better choice. ("What word could...", "How can we express...")
+ 4. Offer examples to help the player without giving them the answer.
+
+
+---
+
 ### 🔗 Sharing & Community Features
 Players can export key parts of their game to share with others. This is done using two distinct types of custom code blocks.
 
