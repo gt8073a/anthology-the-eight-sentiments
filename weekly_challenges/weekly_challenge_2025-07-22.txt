@@ -1,0 +1,10 @@
+Theme: the smell of summer
+JOY: 12
+TRU: 9
+FER: 2
+SUR: 4
+SAD: 1
+DIS: 0
+AGR: 0
+ANT: 7
+
