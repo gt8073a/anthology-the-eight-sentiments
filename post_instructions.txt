@@ -1,0 +1,2 @@
+This game explores the emotions of language. You're given a theme and corresponding sentiment scores to reach, like joy, fear, sadness, etc. Each word you play increases your scores in various emotions. Your challenge is to pick words that move you closest to the perfect target match.
+
