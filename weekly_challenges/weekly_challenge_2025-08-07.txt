@@ -1,0 +1,10 @@
+Theme: the week before school
+JOY: 5
+TRU: 6
+FER: 4
+SUR: 3
+SAD: 5
+DIS: 1
+AGR: 2
+ANT: 9
+
