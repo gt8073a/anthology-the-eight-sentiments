@@ -1,0 +1,19 @@
+AI Diligence Statement
+In the development of Anthology: The Eight Sentiments, we engaged in extensive collaboration with multiple AI systems including Google Gemini, OpenAI's ChatGPT, Anthropic's Claude Sonnet 4, and xAI's Grok.
+The base content for this game came from:
+
+The original game design document and rule system created by JJ Knitis
+Detailed gameplay mechanics, emotional scoring systems, and narrative frameworks developed through iterative design across multiple AI platforms
+Comprehensive game state management and player interaction protocols refined through extensive testing
+
+Throughout this process, the various AI systems assisted with:
+
+Game design iteration and rule refinement (across Gemini, ChatGPT, and Grok)
+Gameplay testing and mechanical validation on multiple platforms
+Game flow design and conversational interaction patterns
+Technical implementation and web application development (Claude Sonnet 4)
+Cross-platform compatibility testing and debugging
+
+The human author created the game design, rules, and creative content. The AI systems assisted with development, testing, implementation, and refinement of the human author's original concepts and designs.
+All AI-generated implementations and suggestions underwent thorough validation, testing, and refinement by the human author across multiple AI systems. The final game represents a collaborative effort where AI systems provided development and testing capabilities, while the human author created the core content and provided oversight, quality control, and creative direction.
+This disclosure is made in the spirit of transparency and to acknowledge the collaborative, multi-AI nature of modern game development.
