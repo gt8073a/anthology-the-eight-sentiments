@@ -1,0 +1,10 @@
+Theme: reunion after years apart
+JOY: 10
+TRU: 9
+FER: 2
+SUR: 4
+SAD: 7
+DIS: 1
+AGR: 2
+ANT: 6
+
