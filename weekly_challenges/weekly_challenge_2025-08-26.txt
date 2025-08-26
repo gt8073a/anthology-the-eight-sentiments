@@ -1,0 +1,10 @@
+Theme: last BBQ of the season
+JOY: 12
+TRU: 8
+FER: 1
+SUR: 2
+SAD: 5
+DIS: 0
+AGR: 1
+ANT: 9
+
