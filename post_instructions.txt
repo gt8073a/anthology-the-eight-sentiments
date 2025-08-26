@@ -1,13 +1,12 @@
+[image]
+[hook]
+
 This game explores the emotions of language. You're given a theme and corresponding sentiment scores to reach, like joy, fear, sadness, etc. Each word you play increases your scores in various emotions. Your challenge is to pick words that move you closest to the perfect target match.
 
-
-Login to GPT.
+Play this week's challenge on GPT and see if you can capture the moment:
 
 https://chatgpt.com/g/g-68583a9c089c81919039b401c720f742-anthology-the-eight-sentiments
+(Once you land, just click "Play the Weekly Challenge" to start!)
 
-Click "Play the Weekly Challenge"
-
-
-#WordGame #TextGame #IndieGame #InteractiveFiction #StoryGame #PuzzleGame #EmotionalGame #GameNight #NarrativeGame #CreativeWriting #WordNerd #LanguageLover #EmotionalIntelligence #WordsHavePower #WeeklyChallenge #TryThisGame
-
-
+#IndieGame #WordGame #InteractiveFiction #NarrativeGame #PuzzleGame #EmotionalIntelligence #CreativeWriting #WordNerd, #LanguageLover
+[theme hashtags]
