@@ -1,0 +1,10 @@
+Theme: first chilly morning
+JOY: 5
+TRU: 3
+FER: 3
+SUR: 4
+SAD: 3
+DIS: 2
+AGR: 6
+ANT: 7
+
