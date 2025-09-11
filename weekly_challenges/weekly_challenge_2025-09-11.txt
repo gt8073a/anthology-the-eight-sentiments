@@ -1,0 +1,10 @@
+Theme: the hard days of my favorite sweater
+JOY: 5
+TRU: 6
+FER: 6
+SUR: 2
+SAD: 1
+DIS: 5
+AGR: 3
+ANT: 4
+
