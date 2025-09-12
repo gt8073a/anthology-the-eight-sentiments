@@ -31,8 +31,8 @@ Most word games are about rules. Anthology is about **interpretation**.
 - You can **argue** with the engine to push meaning into your own territory.  
 
 👉 These two design features are explained in detail:  
-- [🗣️ Arguing with the Sentiment Engine](argue.md)  
-- [🎲 Non-Determinism as a Feature](non-determinism.md)  
+- [🗣️ Arguing with the Sentiment Engine](ARGUE.md)  
+- [🎲 Non-Determinism as a Feature](NON-DETERMINISM.md)  
 
 ---
 
@@ -48,8 +48,8 @@ Most word games are about rules. Anthology is about **interpretation**.
 ## 🧵 Sample Rounds
 Want to see it in action? Check out these full round transcripts:
 
-- [Sample Round 1: The Hard Days of My Favorite Sweater](sample_round1.md)  
-- [Sample Round 2: A First Date in the Rain (Arguing + Non-Determinism)](sample_round2.md)  
+- [Sample Round 1: The Hard Days of My Favorite Sweater](SAMPLE_ROUND1.md)  
+- [Sample Round 2: A First Date in the Rain (Arguing + Non-Determinism)](SAMPLE_ROUND2.md)  
 
 ---
 
