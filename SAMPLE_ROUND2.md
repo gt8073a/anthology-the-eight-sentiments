@@ -29,7 +29,7 @@ Player Word: shadow
 → Delta: JOY:+6 | TRU:+3 | FER:+2 | SUR:+3 | SAD:+1 | DIS:+1 | AGR:+1 | ANT:+3
 ✎ Darkness nearby, not unwelcome.
 ```
-⚡ Argued: "I meant shadow as protective, not frightening."
+⚡ Argued: "I meant shadow as protective, not frightening." 
    Engine: Interpretation validated, score unchanged.
 
 -------------------------------------------------------------
@@ -80,7 +80,7 @@ Player Word: waiting
 
 -------------------------------------------------------------
 
-[ Round End ]
+[ Round End ] 
 Player: done
 
 ```

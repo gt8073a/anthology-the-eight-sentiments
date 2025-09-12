@@ -68,8 +68,8 @@ Player Word: still looks good
 
 -------------------------------------------------------------
 
-[ Round End ]
-Player: done
+[ Round End ] 
+Player: done 
 Result: 🏆 You're Good
 
 ```trophy
