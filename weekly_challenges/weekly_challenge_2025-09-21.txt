@@ -1,0 +1,10 @@
+Theme: pumpkin spice season
+JOY: 9
+TRU: 7
+FER: 2
+SUR: 4
+SAD: 1
+DIS: 3
+AGR: 2
+ANT: 8
+
