@@ -1,0 +1,10 @@
+Theme: game night
+JOY: 10
+TRU: 6
+FER: 2
+SUR: 7
+SAD: 1
+DIS: 2
+AGR: 5
+ANT: 7
+
