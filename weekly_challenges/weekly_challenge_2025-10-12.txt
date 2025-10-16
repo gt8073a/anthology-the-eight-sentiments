@@ -1,0 +1,10 @@
+Theme: backyard fire pit
+JOY: 12
+TRU: 8
+FER: 2
+SUR: 5
+SAD: 1
+DIS: 2
+AGR: 3
+ANT: 6
+
